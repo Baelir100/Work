@@ -4,20 +4,20 @@
     "name" : "0-0",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "8378d007751d93f9",
+      "uid" : "cac94bd7ed546e17",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1631797888833,
-        "stop" : 1631797890558,
-        "duration" : 1725
+        "start" : 1631797891211,
+        "stop" : 1631797893522,
+        "duration" : 2311
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "9d358fbcbb6db9a6",
+      "uid" : "ebc85dc79246ef28",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
