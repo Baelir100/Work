@@ -4,7 +4,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "8d8f3e7b0ac6b61f",
+      "uid" : "2bdfd37a189b0546",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
@@ -17,13 +17,13 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "d4f112c2742ffc63",
+      "uid" : "c5e390bf03deec36",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
-        "start" : 1631797899989,
-        "stop" : 1631797902006,
-        "duration" : 2017
+        "start" : 1631800033944,
+        "stop" : 1631800036122,
+        "duration" : 2178
       },
       "flaky" : false,
       "newFailed" : false,
