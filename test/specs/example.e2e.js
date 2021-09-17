@@ -1,4 +1,4 @@
-import  AllureReporter  from "@wdio/allure-reporter";
+const { default: AllureReporter } = require('@wdio/allure-reporter');
 const LoginPage = require('../pageobjects/login.page');
 const SecurePage = require('../pageobjects/secure.page');
 
