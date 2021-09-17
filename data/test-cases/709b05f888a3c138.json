@@ -1,26 +1,30 @@
 {
-  "uid" : "633d137895e200b4",
+  "uid" : "709b05f888a3c138",
   "name" : "should login with valid credentials",
   "fullName" : "My First Login application Test.should login with valid credentials",
   "historyId" : "52adb4d6abe83f9489227a3db60a56d5",
   "time" : {
-    "start" : 1631907064921,
-    "stop" : 1631907066693,
-    "duration" : 1772
+    "start" : 1631912081018,
+    "stop" : 1631912082543,
+    "duration" : 1525
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "broken",
+  "statusMessage" : "Secureage is not defined",
+  "statusTrace" : "ReferenceError: Secureage is not defined\n                    at Context.<anonymous> (/home/runner/work/Workplease/Workplease/test/specs/example.e2e.js:11:22)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
   "testStage" : {
-    "status" : "passed",
+    "status" : "broken",
+    "statusMessage" : "Secureage is not defined",
+    "statusTrace" : "ReferenceError: Secureage is not defined\n                    at Context.<anonymous> (/home/runner/work/Workplease/Workplease/test/specs/example.e2e.js:11:22)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
     "steps" : [ {
       "name" : "Open login page",
       "time" : {
-        "start" : 1631907064922,
-        "stop" : 1631907064922,
+        "start" : 1631912081019,
+        "stop" : 1631912081019,
         "duration" : 0
       },
       "status" : "passed",
@@ -36,7 +40,7 @@
     "parameters" : [ ],
     "stepsCount" : 1,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
+    "shouldDisplayMessage" : true,
     "hasContent" : true
   },
   "afterStages" : [ ],
@@ -75,9 +79,13 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "633d137895e200b4.json",
+  "source" : "709b05f888a3c138.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
