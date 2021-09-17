@@ -1,5 +1,5 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
     "uid" : "ff9b43c34a817b44fa9b6edf61b00141",
     "name" : "My Login application",
@@ -7,9 +7,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
+    }
+  }, {
+    "uid" : "aefaeb9cb40e27ae2be4fbb81e5699ed",
+    "name" : "My Login application Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
     }
   } ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "4e941c356d4b6ae6",
+  "uid" : "b333ec90947456bb",
   "name" : "should login with valid credentials",
-  "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "79ec835f0a5b5af7cb3377beb5399a53",
+  "fullName" : "My Login application Test.should login with valid credentials",
+  "historyId" : "56c10076f4be8e94cf45c17b0ce5d388",
   "time" : {
-    "start" : 1631891255904,
-    "stop" : 1631891257388,
-    "duration" : 1484
+    "start" : 1631891539565,
+    "stop" : 1631891541566,
+    "duration" : 2001
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -19,8 +19,8 @@
     "steps" : [ {
       "name" : "Open login page",
       "time" : {
-        "start" : 1631891255905,
-        "stop" : 1631891255905,
+        "start" : 1631891539566,
+        "stop" : 1631891539566,
         "duration" : 0
       },
       "status" : "passed",
@@ -51,16 +51,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "testClass",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "testMethod",
     "value" : "should login with valid credentials"
   }, {
     "name" : "package",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -78,6 +78,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4e941c356d4b6ae6.json",
+  "source" : "b333ec90947456bb.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
