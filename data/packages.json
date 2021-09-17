@@ -4,7 +4,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "9c088a55cf121987",
+      "uid" : "3d863af87f07ac2b",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
@@ -18,22 +18,22 @@
     } ],
     "uid" : "f43874cc36d1c5833cbb332fc53460ce"
   }, {
-    "name" : "My Login application Test",
+    "name" : "My First Login application Test",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "d664680b9997317",
-      "parentUid" : "104680500b2ec57ca9c51bd6221177d4",
+      "uid" : "915780021d6c2b70",
+      "parentUid" : "9b82536d079b14e39000aa6da17e0477",
       "status" : "passed",
       "time" : {
-        "start" : 1631903537639,
-        "stop" : 1631903539758,
-        "duration" : 2119
+        "start" : 1631904686050,
+        "stop" : 1631904687470,
+        "duration" : 1420
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.63" ]
     } ],
-    "uid" : "104680500b2ec57ca9c51bd6221177d4"
+    "uid" : "9b82536d079b14e39000aa6da17e0477"
   } ],
   "name" : "packages"
 }
