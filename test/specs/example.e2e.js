@@ -8,7 +8,7 @@ describe('My First Login application Test', () => {
         await LoginPage.open();
 
         await LoginPage.login('tomsmith', 'SuperSecretPassword!');
-        await expect(Secureage.flashAlert).toBeExisting();
+        await expect(SecurePage.flashAlert).toBeExisting();
         await expect(SecurePage.flashAlert).toHaveTextContaining(
             'You logged into a secure area!');
     });
