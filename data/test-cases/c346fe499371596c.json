@@ -1,12 +1,12 @@
 {
-  "uid" : "2043eefb05a5b2dd",
+  "uid" : "c346fe499371596c",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "d7333d5f8bc369408c480ab1c31410d9",
+  "historyId" : "79ec835f0a5b5af7cb3377beb5399a53",
   "time" : {
-    "start" : 1631790518475,
-    "stop" : 1631790523419,
-    "duration" : 4944
+    "start" : 1631880073311,
+    "stop" : 1631880075137,
+    "duration" : 1826
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,31 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open login page",
+      "time" : {
+        "start" : 1631880073312,
+        "stop" : 1631880073312,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -42,7 +67,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.82"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -51,27 +76,8 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "4f6a012c465d8cdd",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631790518475,
-          "stop" : 1631790523419,
-          "duration" : 4944
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "2043eefb05a5b2dd.json",
-  "parameterValues" : [ "chrome-93.0.4577.82" ]
+  "source" : "c346fe499371596c.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
