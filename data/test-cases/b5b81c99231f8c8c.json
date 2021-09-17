@@ -1,12 +1,12 @@
 {
-  "uid" : "3eb2bb8608cfc55c",
+  "uid" : "b5b81c99231f8c8c",
   "name" : "should login with valid credentials",
-  "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "d7333d5f8bc369408c480ab1c31410d9",
+  "fullName" : "My First Login application Test.should login with valid credentials",
+  "historyId" : "52adb4d6abe83f9489227a3db60a56d5",
   "time" : {
-    "start" : 1631790518475,
-    "stop" : 1631790523419,
-    "duration" : 4944
+    "start" : 1631906926329,
+    "stop" : 1631906928321,
+    "duration" : 1992
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,31 +26,33 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "My Login application"
+    "value" : "My First Login application Test"
   }, {
     "name" : "testClass",
-    "value" : "My Login application"
+    "value" : "My First Login application Test"
   }, {
     "name" : "testMethod",
     "value" : "should login with valid credentials"
   }, {
     "name" : "package",
-    "value" : "My Login application"
+    "value" : "My First Login application Test"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.82"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "3eb2bb8608cfc55c.json",
-  "parameterValues" : [ "chrome-93.0.4577.82" ]
+  "source" : "b5b81c99231f8c8c.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
