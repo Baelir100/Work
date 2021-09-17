@@ -1,12 +1,12 @@
 {
-  "uid" : "1d742ce2ce6eb1c0",
+  "uid" : "d664680b9997317",
   "name" : "should login with valid credentials",
-  "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "d7333d5f8bc369408c480ab1c31410d9",
+  "fullName" : "My Login application Test.should login with valid credentials",
+  "historyId" : "56c10076f4be8e94cf45c17b0ce5d388",
   "time" : {
-    "start" : 1631879992352,
-    "stop" : 1631879997179,
-    "duration" : 4827
+    "start" : 1631903537639,
+    "stop" : 1631903539758,
+    "duration" : 2119
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -19,8 +19,8 @@
     "steps" : [ {
       "name" : "Open login page",
       "time" : {
-        "start" : 1631879992359,
-        "stop" : 1631879992359,
+        "start" : 1631903537640,
+        "stop" : 1631903537640,
         "duration" : 0
       },
       "status" : "passed",
@@ -51,60 +51,33 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "testClass",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "testMethod",
     "value" : "should login with valid credentials"
   }, {
     "name" : "package",
-    "value" : "My Login application"
+    "value" : "My Login application Test"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.82"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ {
-      "uid" : "efb5b78f4463224d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1631790518475,
-        "stop" : 1631790523419,
-        "duration" : 4944
-      }
-    } ],
+    "retries" : [ ],
     "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "4f6a012c465d8cdd",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631790518475,
-          "stop" : 1631790523419,
-          "duration" : 4944
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "1d742ce2ce6eb1c0.json",
-  "parameterValues" : [ "chrome-93.0.4577.82" ]
+  "source" : "d664680b9997317.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
