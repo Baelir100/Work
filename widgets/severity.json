@@ -1,20 +1,20 @@
 [ {
-  "uid" : "8b72e2934243e51a",
+  "uid" : "9ca1c3bd9d809597",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1631886560573,
+    "stop" : 1631886561252,
+    "duration" : 679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66710170a7e047c",
   "name" : "should login with valid credentials",
   "time" : {
     "start" : 1631790518475,
     "stop" : 1631790523419,
     "duration" : 4944
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c346fe499371596c",
-  "name" : "should login with valid credentials",
-  "time" : {
-    "start" : 1631880073311,
-    "stop" : 1631880075137,
-    "duration" : 1826
   },
   "status" : "passed",
   "severity" : "normal"
