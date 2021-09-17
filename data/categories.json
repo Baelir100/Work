@@ -1,26 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "Secureage is not defined",
-      "children" : [ {
-        "name" : "should login with valid credentials",
-        "uid" : "709b05f888a3c138",
-        "parentUid" : "322d971333e15d4d190d2e48cab127ea",
-        "status" : "broken",
-        "time" : {
-          "start" : 1631912081018,
-          "stop" : 1631912082543,
-          "duration" : 1525
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chrome-93.0.4577.63" ]
-      } ],
-      "uid" : "322d971333e15d4d190d2e48cab127ea"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }

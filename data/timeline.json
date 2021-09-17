@@ -4,20 +4,20 @@
     "name" : "0-0",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "709b05f888a3c138",
+      "uid" : "fec4b792d8a50a49",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1631912081018,
-        "stop" : 1631912082543,
-        "duration" : 1525
+        "start" : 1631912263876,
+        "stop" : 1631912265378,
+        "duration" : 1502
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.63" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "ae92d63ad0492e10",
+      "uid" : "a56274d39882068b",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -30,7 +30,7 @@
       "parameters" : [ "chrome-93.0.4577.82" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "c95258d958aac943",
+      "uid" : "b133b5b14a4869e4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
