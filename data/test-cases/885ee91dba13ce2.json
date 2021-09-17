@@ -1,12 +1,12 @@
 {
-  "uid" : "9ca1c3bd9d809597",
+  "uid" : "885ee91dba13ce2",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
   "historyId" : "79ec835f0a5b5af7cb3377beb5399a53",
   "time" : {
-    "start" : 1631886560573,
-    "stop" : 1631886561252,
-    "duration" : 679
+    "start" : 1631890478103,
+    "stop" : 1631890480287,
+    "duration" : 2184
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -19,8 +19,8 @@
     "steps" : [ {
       "name" : "Open login page",
       "time" : {
-        "start" : 1631886560574,
-        "stop" : 1631886560574,
+        "start" : 1631890478104,
+        "stop" : 1631890478104,
         "duration" : 0
       },
       "status" : "passed",
@@ -78,6 +78,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9ca1c3bd9d809597.json",
+  "source" : "885ee91dba13ce2.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
