@@ -1,12 +1,12 @@
 {
-  "uid" : "fec4b792d8a50a49",
+  "uid" : "b86e60a385319d4f",
   "name" : "should login with valid credentials",
   "fullName" : "My First Login application Test.should login with valid credentials",
   "historyId" : "52adb4d6abe83f9489227a3db60a56d5",
   "time" : {
-    "start" : 1631912263876,
-    "stop" : 1631912265378,
-    "duration" : 1502
+    "start" : 1631958306371,
+    "stop" : 1631958308726,
+    "duration" : 2355
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -19,8 +19,8 @@
     "steps" : [ {
       "name" : "Open login page",
       "time" : {
-        "start" : 1631912263877,
-        "stop" : 1631912263877,
+        "start" : 1631958306372,
+        "stop" : 1631958306372,
         "duration" : 0
       },
       "status" : "passed",
@@ -78,6 +78,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fec4b792d8a50a49.json",
+  "source" : "b86e60a385319d4f.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
