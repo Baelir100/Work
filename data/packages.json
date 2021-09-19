@@ -4,7 +4,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "ccd2e44e91a3a13d",
+      "uid" : "bd2e46ae702d245d",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "passed",
       "time" : {
@@ -21,13 +21,13 @@
     "name" : "My First Login application Test",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "b86e60a385319d4f",
+      "uid" : "56bbefb159c578",
       "parentUid" : "9b82536d079b14e39000aa6da17e0477",
       "status" : "passed",
       "time" : {
-        "start" : 1631958306371,
-        "stop" : 1631958308726,
-        "duration" : 2355
+        "start" : 1632076661939,
+        "stop" : 1632076664425,
+        "duration" : 2486
       },
       "flaky" : false,
       "newFailed" : false,
