@@ -1,3 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
 "passed","Fri Sep 17 11:59:52 UTC 2021","Fri Sep 17 11:59:57 UTC 2021","4827","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
-"passed","Sun Sep 19 18:37:41 UTC 2021","Sun Sep 19 18:37:44 UTC 2021","2486","","My First Login application Test","","My First Login application Test","should login with valid credentials","should login with valid credentials",""
